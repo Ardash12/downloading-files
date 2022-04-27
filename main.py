@@ -11,8 +11,5 @@ lst = f.readlines()
 f.close()
 for i in range(0, len(lst)):
     url = lst[i][:-1]
-    print(url)
     index = lst[i].rfind('/')
-    print(lst[i][index + 1:-1])
     wget.download(url, f'./download/{lst[i][index + 1:-1]}')
-
