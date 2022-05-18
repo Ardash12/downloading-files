@@ -1,0 +1,3 @@
+_mod_files/ce_images/vegas2/2GPS_dddLUX_blm_pr_L.jpg
+_mod_files/ce_images/vegas2/2GPS_dddLUX_br_br.jpg
+_mod_files/ce_images/vegas2/2GPS_kkkLUX_br_fe_R.jpg
